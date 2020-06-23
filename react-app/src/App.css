@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif&display=swap");
+
+
+.item {
+    font-family: 'Montserrat', sans-serif;
+    background-color: #eee;
+  } 
+
+.image {
+    display: block;
+    padding-top: 50px; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.team{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.card {
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.about{
+    width: 1000px;
+    margin: auto;
+    text-align: center;
+
+}
+
+
+.heading{
+
+    padding-top: 100px;
+    font-family: 'PT Serif', serif;
+    text-align:center;
+}
