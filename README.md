@@ -144,7 +144,12 @@ Thank you.
 # Instructions to Run
 
 Download the zip folder and open the two folders.
-Start the Django project by:
+Start the Django project by starting a virtual env and running:
+
+`pip install -r requirements.txt`
+
+Start the server by : 
+
 
 `python manage.py runserver`
 
@@ -169,6 +174,3 @@ Make sure bootstrap is installed and if not
 `npm install react-bootstrap bootstrap`
 
 
-You may have to install the django-cors-headers in the Django terminal:
-
-`pip install django-cors-headers`
